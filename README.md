@@ -21,6 +21,11 @@ Code AI Models:
 - treacy_lamberson_Model2.ipynb
   - Contained within this file is all of the code for the original model, which did not have a built in "rating" system based off of Mix-Max normalizaion.
 
+Data:
+
+- steam-200k.csv
+  - Contains all the required data to work through the AI agents, all in the correct format. This data was obtained from Kaggle.
+
 Final Report:
 
 - treacy_lamberson_fp.pdf
