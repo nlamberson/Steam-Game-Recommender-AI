@@ -1,6 +1,6 @@
 # Steam-Game-Recommender-AI
 
-This project was a final project for my Artificial Intelligence class in College. The project was complete in collaboration with Michael Treacy, another student at the University. We spent the semester researching and understanding AI models, applying them to the project to make a steam game recommendation system with only games and hours played per use as an input. For a detailed reading on the AI agents and how we went about building the system, the final report is included in the repository.
+This project was a final project for my Artificial Intelligence class in College. The project was complete in collaboration with Michael Treacy, another student at the University. We spent the semester researching and understanding AI models, applying them to the project to make a steam game recommendation system with only games and hours played per user as an input. For a detailed reading on the AI agents and how we went about building the system, the final report is included in the repository.
 
 ## README Directory
 
